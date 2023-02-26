@@ -1,0 +1,113 @@
+<html>
+              <head>
+                       <title>Jose Eduardo Rosario</title>
+              </head>
+
+              <body>
+                      <h1>Biografia y horario de clases <p>
+                       <br>Jose Eduardo Rosario</h1> </p>
+                       <img src="eduardo.jpg" aling=left width=100 heigth=100 >
+                       <p> 9 de Noviembre 1994. Valverde, Mao, Rep.Dominicana.                                               Estudiante de Lic en Informatica en la Universidad Autonoma de Santo Domingo (UASD). Inicie mis estudios en la escuela basica sibila hasta el 2006 despues de terminar la primaria hice el traslado hacia el Liceo Juan De Jesus Reyes de esta ciudad de Mao donde ahi estuve en los años 2007-2008. En esos dos años realice los grados de septimo y octavo. En el año 2009 despues de aprobar las pruebas nacionales hice una solicitud para entrar en el Instituto Politecnico Del Noroeste (INPONOR) en donde la aprobaron y realice mi bachillerato tecnico en Electronica hasta el  año 2012. En el 2013 empece a estudiar Ing. Agronomica en la Universidad Autonoma de Santo Domingo (UASD) en el año 2013 realice solo un semestre para luego mudarme hacia la ciudad de Santo Domingo, capital de la Republica Dominicana a estudiar Ing. Electomecanica. Llegue a Santo Domingo en el año 2014 dure hasta el 2019 activo en la Universidad pero por cuestiones personales no complete la carrera de Ing.Electromecanica y tuve que regresar a mi ciudad natal. Ya en Valverde, Mao en el 2020 comienzo a estudiar Lic en Informatica. Actualmente estoy cursando el sexto semestre de la carrera. Me llamo mucho la atencion esta carrera ya que el mundo en que nos estamos dessarrollando es totalmete tecnologico a pesar de que estamos muy avanzados en tecnologia la mayoria de personas desconocen en realidad como usar la tecnologia a ayudarle a avanzar y a aclarar sus conocimiento. El motivo principal que estoy en esta carrera es porque deseo ayudar a todas las personas a entender la tecnologia y sus novedades.</p>
+              </body>
+</html>
+
+<html>
+<head><title>Horario de clases Jose Eduardo Rosario</title></head>
+<body>
+
+<h1>Horario de clases 2023-01</h1>
+
+<table cellspacing="5" cellpadding="10" border="15">
+<tr>
+  <td><strong>Hora</strong></td>
+  <td><strong>Lunes</strong></td>
+  <td><strong>Martes</strong></td>
+  <td><strong>Miercoles</strong></td>
+  <td><strong>Jueves</strong></td>
+  <td><strong>Viernes</strong></td>
+</tr>
+
+<tr>
+  <td>7:00 - 7:50</td></td><td></td>
+  <td>Sist.Operativo</td><td>Lab.Programacion III</td><td></td><td>Sist.Oprativos</td>
+</tr>
+
+<tr>
+  <td>8:00 - 8:50</td></td><td></td>
+  <td>Sist.Operativo</td><td>Lab.Programacion III</td><td></td><td>Sist.Operativos</td>
+</tr
+
+
+<tr>
+  <td>9:00 - 9:50</td></td><td></td>
+  <td>Sist.Operativo</td><td></td><td></td><td></td>
+</tr>
+
+
+<tr>
+  <td>10:00 - 10:50</td></td></td><td>
+Cont.General I
+  <td></td><td></td><td></td></td><td>
+</tr>
+
+
+<tr>
+  <td>11:00 - 11:50</td></td><td>
+Cont.General I
+  <td></td><td></td><td></td><td>
+</tr>
+
+
+<tr>
+  <td>12:00 - 12:50</td><td>
+Cont.General I
+  <td><td><td></td><td></td>
+</tr>
+
+<tr>
+  <td>13:00 - 13:50</td></td><td></td>
+  <td></td><td></td><td></td><td></td>
+</tr>
+
+<tr>
+  <td>14:00 - 14:50</td></td><td></td></td></td>
+  <td></td><td></td><td></td><td></td></td></td>
+</tr>
+
+<tr>
+  <td>15:00 - 15:50</td></td><td></td></td></td></td><td>
+  <td></td></td><td></td></td></td></td><td></td></td>
+</tr>
+
+<tr>
+  <td>16:00 - 16:50</td></td><td></td></td></td></td><td>Cont.General I
+  <td>Estr.Datos</td></td><td>Estr.Datos</td></td></td></td><td></td>
+</tr>
+
+<tr>
+  <td>17:00 - 17:50</td></td><td></td></td></td></td><td>Cont.General I
+  <td>Estr.Datos</td></td><td>Estr.Datos</td></td></td></td><td></td>
+</tr>
+
+<tr>
+  <td>18:00 - 18:50</td></td><td>Alg.Computacional</td></td></td></td><td>Cont.General I
+  <td>Alg.Computacional</td></td><td></td></td></td></td><td></td>
+</tr>
+
+<tr>
+  <td>19:00 - 19:50</td></td><td>Alg.Computacional</td></td></td></td><td>
+  <td>Alg.Computacional</td></td><td></td></td></td></td><td></td>
+</tr>
+
+<tr>
+  <td>20:00 - 20:50</td></td><td>Alg.Computacional</td></td></td></td><td>
+  <td></td></td><td></td></td></td></td><td></td>
+</tr>
+
+<tr>
+  <td>21:00 - 21:50</td></td><td></td></td></td></td><td>
+  <td></td></td><td></td></td></td></td><td></td>
+</tr>
+
+</body>
+</html>
